@@ -1,0 +1,4 @@
+diff a/sample.js b/sample.js	(rejected hunks)
+@@ -0,0 +1 @@
++console.log('hello');
+\ No newline at end of file
